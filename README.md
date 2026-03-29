@@ -20,20 +20,6 @@ Solving one LeetCode problem every day for 100 days to learn Data Structures and
 
 ---
 
-## Topics to Cover
-
-- [ ] Arrays
-- [ ] Strings
-- [ ] HashMap
-- [ ] Two Pointers
-- [ ] Sliding Window
-- [ ] Stack
-- [ ] Linked Lists
-- [ ] Binary Search
-- [ ] Trees
-- [ ] Dynamic Programming
-
----
 
 ## How I Solve Each Problem
 
