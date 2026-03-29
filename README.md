@@ -45,5 +45,4 @@ Solving one LeetCode problem every day for 100 days to learn Data Structures and
 
 ---
 
-*One problem a day keeps unemployment away* 😄
-```
+
