@@ -1,0 +1,29 @@
+class Solution:
+    def groupAnagrams(self, strs: List[str]) -> List[List[str]]:
+        d={}
+        for word in strs:
+            key="".join(sorted(word))
+            if key not in d:
+                d[key]= []
+            d[key].append(word)
+        return list(d.values())
+
+
+second problem:
+
+class Solution:
+    def topKFrequent(self, nums: List[int], k: int) -> List[int]:
+        groups=[]
+        nums=sorted(nums)
+        for i in range(len(nums)):
+          if i==0:
+              groups.append([nums[i]])
+          elif nums[i] == nums[i-1] :
+               groups[-1].append(nums[i])
+          else:
+                  groups.append([nums[i]])
+        result=[]
+        for g in sorted(groups, key=len)[-k:]:
+            result.append(g[0])
+        return result
+           
