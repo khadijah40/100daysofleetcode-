@@ -16,7 +16,8 @@ Solving one LeetCode problem every day for 100 days to learn Data Structures and
 
 | Day | Problem | Difficulty | Topic | Status |
 |-----|---------|------------|-------|--------|
-| 001 | Can Be Equal | 🟢 Easy | Arrays, Sets | ✅ Done |
+| 001 | Can Be Equal | 🟢 Easy | Arrays, Sets | ✅  |
+| 002 | Group Anagrams , Top K Frequent        | 🟡 Medium | Arrays, Dict , sorting   | ✅ |
 
 ---
 
