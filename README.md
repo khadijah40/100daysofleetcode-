@@ -19,6 +19,7 @@ Solving one LeetCode problem every day for 100 days to learn Data Structures and
 | 001 | Can Be Equal | 🟢 Easy | Arrays, Sets | ✅  |
 | 002 | Group Anagrams , Top K Frequent        | 🟡 Medium | Arrays, Dict , sorting   | ✅ |
 | 003 | Encode Decode , Product Except Self  | 🟡 Medium | Strings , Arrays | ✅ |
+| 004 | valid Palindrome | 🟢 Easy | Strings , Arrays | ✅ |
 
 
 ---
