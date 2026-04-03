@@ -21,7 +21,7 @@ Solving one LeetCode problem every day for 100 days to learn Data Structures and
 | 003 | Encode Decode , Product Except Self  | 🟡 Medium | Strings , Arrays | ✅ |
 | 004 | valid Palindrome | 🟢 Easy | Strings , Arrays | ✅ |
 | 005 | sudoku problem| 🟢 Easy | Strings , Arrays | ✅ |
-| 005 | sequence problem| 🟡 Medium | Arrays | ✅ |
+| 006 | sequence problem| 🟡 Medium | Arrays | ✅ |
 
 
 ---
