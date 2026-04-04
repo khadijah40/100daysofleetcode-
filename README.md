@@ -22,6 +22,7 @@ Solving one LeetCode problem every day for 100 days to learn Data Structures and
 | 004 | valid Palindrome | 🟢 Easy | Strings , Arrays | ✅ |
 | 005 | sudoku problem| 🟢 Easy | Strings , Arrays | ✅ |
 | 006 | sequence problem| 🟡 Medium | Arrays | ✅ |
+| 007 |Two Sum II Input Array Is Sorted | 🟡 Medium | Two Pointers | ✅ |
 
 
 ---
