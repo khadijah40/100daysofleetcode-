@@ -26,6 +26,8 @@ Solving one LeetCode problem every day for 100 days to learn Data Structures and
 | 008 |Three Sum | 🟡 Medium | Two Pointers | ✅ |
 | 009 |Container With Most Water  | 🟡 Medium | Two Pointers | ✅ |
 | 010 |Trapping Rain Water  | 🔴 Hard | Two Pointers | ✅ |
+| 011 | Trapping water  | 🔴 Hard | Stack | ✅ |
+| 012 | Best time to sell and buy stock |🟢 Easy | Stack | ✅ |
 
 
 ---
